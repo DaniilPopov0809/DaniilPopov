@@ -19,7 +19,7 @@
 
 ---
 
-# 📋 Team project
+# 📋 Team projects
 ## 👉 [FoodSta](https://github.com/serhii-vasylenko/team16-project)
 
 A website with adaptive layouts desing for Food Business.  
@@ -44,4 +44,4 @@ A website with adaptive layouts desing for News site.
 
 ---
 
-# 👇 Pet project
+# 👇 Pet projects 
