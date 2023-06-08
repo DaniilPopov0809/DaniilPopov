@@ -19,19 +19,20 @@
 
 ---
 
+# 📋 Team project
 ## 👉 [FoodSta](https://github.com/serhii-vasylenko/team16-project)
 
 A website with adaptive layouts desing for Food Business.  
-**Technology stack:** `HTML`, `CSS`, `SASS`, `JavaScript`, `Parcel`.  
-**Role:** Developer.  
-**Completed:** Hero section(slider), animation elements when clicking on an anchor link.
+*Technology stack:* `HTML`, `CSS`, `SASS`, `JavaScript`, `Parcel`.  
+*Role:* Developer.  
+*Completed:* Hero section(slider), animation elements when clicking on an anchor link.
 
 ## 👉 [News](https://github.com/serhii-vasylenko/news-app-team12)
 
 A website with adaptive layouts desing for News site.  
-* *Technology stack:* * `HTML`, `CSS`, `SASS`, `JavaScript`, `Rest API`, `AJAX`, `Parcel`.  
-* *Role:* * Developer.  
-* *Completed:* * Category section, API function for get category of news and news, animated loader while news is loading, search and render news by category and date, paginator for searching news by category and date, bringing received data from the API server to a general form.
+*Technology stack:* `HTML`, `CSS`, `SASS`, `JavaScript`, `Rest API`, `AJAX`, `Parcel`.  
+*Role:* Developer.  
+*Completed:* Category section, API function for get category of news and news, animated loader while news is loading, search and render news by category and date, paginator for searching news by category and date, bringing received data from the API server to a general form.
 
 ---
 
