@@ -25,7 +25,7 @@
 
 SoYummy is a feature-rich single-page application (SPA). Fully responsive design, oriented to any device (mobile, tablet, desktop). This app offers more than just a collection of recipes - it is designed to be your very own digital cookbook.
 
-**Technology stack:** HTML/CSS, JavaScript, Axios, React, React-router-dom, ReduxToolkit, React-select, Emotion, Formiks, Yup  
+**Technology stack:** `HTML`, `CSS`, `JavaScript`, `Axios`, `React`, `React-router-dom`, `ReduxToolkit`, `React-select`, `Emotion`, `Formiks`, `Yup`.  
 **Role:** Frontend Developer.  
 **Completed:** Add recipe page, motivation window, Rest API functions.
 
