@@ -20,14 +20,23 @@
 ---
 
 # 📋 Team projects
-## 👉 [FoodSta](https://github.com/serhii-vasylenko/team16-project)
+
+## 👉 [SoYummy](https://github.com/DaniilPopov0809/SoYummy)
+
+SoYummy is a feature-rich single-page application (SPA). Fully responsive design, oriented to any device (mobile, tablet, desktop). This app offers more than just a collection of recipes - it is designed to be your very own digital cookbook.
+
+**Technology stack:** HTML/CSS, JavaScript, Axios, React, React-router-dom, ReduxToolkit, React-select, Emotion, Formiks, Yup  
+**Role:** Frontend Developer.  
+**Completed:** Add recipe page, motivation window, Rest API functions.
+
+## 👉 [FoodSta](https://github.com/DaniilPopov0809/FoodSta)
 
 A website with adaptive layouts desing for Food Business.  
 **Technology stack:** `HTML`, `CSS`, `SASS`, `JavaScript`, `Parcel`.  
 **Role:** Developer.  
 **Completed:** Hero section(slider), animation elements when clicking on an anchor link.
 
-## 👉 [News](https://github.com/serhii-vasylenko/news-app-team12)
+## 👉 [News](https://github.com/DaniilPopov0809/News)
 
 A website with adaptive layouts desing for News site.  
 **Technology stack:** `HTML`, `CSS`, `SASS`, `JavaScript`, `Rest API`, `AJAX`, `Parcel`.  
