@@ -19,32 +19,6 @@
 
 ---
 
-# 📋 Team projects
-
-## 👉 [SoYummy](https://github.com/DaniilPopov0809/SoYummy)
-
-SoYummy is a feature-rich single-page application (SPA). Fully responsive design, oriented to any device (mobile, tablet, desktop). This app offers more than just a collection of recipes - it is designed to be your very own digital cookbook.
-
-**Technology stack:** `HTML`, `CSS`, `JavaScript`, `Axios`, `React`, `React-router-dom`, `ReduxToolkit`, `React-select`, `Emotion`, `Formiks`, `Yup`.  
-**Role:** Frontend Developer.  
-**Completed:** Add recipe page, motivation window, Rest API functions.
-
-## 👉 [FoodSta](https://github.com/DaniilPopov0809/FoodSta)
-
-A website with adaptive layouts desing for Food Business.  
-**Technology stack:** `HTML`, `CSS`, `SASS`, `JavaScript`, `Parcel`.  
-**Role:** Developer.  
-**Completed:** Hero section(slider), animation elements when clicking on an anchor link.
-
-## 👉 [News](https://github.com/DaniilPopov0809/News)
-
-A website with adaptive layouts desing for News site.  
-**Technology stack:** `HTML`, `CSS`, `SASS`, `JavaScript`, `Rest API`, `AJAX`, `Parcel`.  
-**Role:** Developer.  
-**Completed:** Category section, API function for get category of news and news, animated loader while news is loading, search and render news by category and date, paginator for searching news by category and date, bringing received data from the API server to a general form.
-
----
-
 # 📖 Contacts 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/popov-ds/)
